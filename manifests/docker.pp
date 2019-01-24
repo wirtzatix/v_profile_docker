@@ -1,3 +1,3 @@
-class profile::docker {
+class v_profile_docker::docker {
   include ::docker
 }
